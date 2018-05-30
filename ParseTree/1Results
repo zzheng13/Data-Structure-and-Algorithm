@@ -1,0 +1,34 @@
+
+Root
+ a
+  acggt#: 15
+  c
+   aacggt#: 13
+   ggt#: 16
+  t
+   acaacggt#: 11
+   cctccat$atacaacggt#: 1
+   $atacaacggt#: 8
+ c
+  a
+   acggt#: 14
+   t$atacaacggt#: 7
+  c
+   at$atacaacggt#: 6
+   tccat$atacaacggt#: 3
+  ggt#: 17
+  tccat$atacaacggt#: 4
+ g
+  atcctccat$atacaacggt#: 0
+  gt#: 18
+  t#: 19
+ t
+  acaacggt#: 12
+  cc
+   at$atacaacggt#: 5
+   tccat$atacaacggt#: 2
+  $atacaacggt#: 9
+  #: 20
+ $atacaacggt#: 10
+ #: 21
+
